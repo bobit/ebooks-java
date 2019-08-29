@@ -1,2 +1,2 @@
-Welcome to the demo-rabbitmq docs!
+Welcome to the ebooks-java docs!
 
